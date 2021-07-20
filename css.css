@@ -1,0 +1,10 @@
+.search{
+  border-radius: 3px;
+  display:none;
+
+}
+
+
+.containter{
+  display:flex;
+}
